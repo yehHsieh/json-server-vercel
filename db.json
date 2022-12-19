@@ -298,50 +298,7 @@
       "num": 0
     }
   ],
-  "carts": [
-    {
-      "userId": "2",
-      "productId": 2,
-      "num": 2,
-      "id": 4
-    },
-    {
-      "userId": "2",
-      "productId": 9,
-      "num": 1,
-      "id": 5
-    },
-    {
-      "userId": "12",
-      "productId": 1,
-      "num": 1,
-      "id": 6
-    },
-    {
-      "userId": "12",
-      "productId": 5,
-      "num": 2,
-      "id": 7
-    },
-    {
-      "userId": "20",
-      "productId": 9,
-      "num": 2,
-      "id": 9
-    },
-    {
-      "userId": "21",
-      "productId": 5,
-      "num": 1,
-      "id": 11
-    },
-    {
-      "userId": "21",
-      "productId": 9,
-      "num": 1,
-      "id": 12
-    }
-  ],
+  "carts": [],
   "orders": [
     {
       "userId": "1",
