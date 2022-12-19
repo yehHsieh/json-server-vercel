@@ -1,11 +1,557 @@
-{"users": [
-    
+{
+  "users": [
+    {
+      "email": "dfgdfg@gmail.com",
+      "password": "$2a$10$kvT/eq0uGcn0QlsocSygV.edtp6OwJRnLDmVPV1vOCafMpVVugjHu",
+      "name": "王曉明",
+      "tel": "1213456",
+      "account": "werwerw",
+      "isAdmin": false,
+      "id": 1
+    },
+    {
+      "email": "dfgdg@gmail.com",
+      "password": "$2a$10$Sp57BTPoBi5gBK6rNZKQPeDIQ6csTqvcw5WfcKZIyySSG72hiiZQS",
+      "name": "張曉",
+      "tel": "096333335",
+      "account": "rrwrpwrk",
+      "isAdmin": false,
+      "id": 2
+    },
+    {
+      "email": "york0704@yahoo.com.tw",
+      "password": "$2a$10$RYgmPNHrIia/Jdnw6P3T5.J41QE/cKyYyr0ViJPxeOiSb7Wiyujde",
+      "name": "york",
+      "tel": "096324243",
+      "account": "handsome",
+      "isAdmin": true,
+      "id": 3
+    },
+    {
+      "email": "yyyyy@yyyyyyy",
+      "password": "$2a$10$T4n/Lvqmxu5CT3UqKIW2/OPQAdJDXcFm8N6RHcT3Pajx3dLa5ydPq",
+      "name": "yyyy",
+      "tel": "09121212",
+      "isAdmin": false,
+      "id": 4
+    },
+    {
+      "email": "12345@12345",
+      "password": "$2a$10$ADrfxXYY8E0/Hp5GzetJveFnVOVE4m3n465xWYsgEOzhLLEyuZBnC",
+      "name": "xxxxxx",
+      "tel": "0912121212",
+      "isAdmin": false,
+      "id": 5
+    },
+    {
+      "email": "1234@1234",
+      "password": "$2a$10$yax/SjLPFlwoBIHuChOTPOelBh9x.Mn.Xul2cAjhevIbc0zFyvMhS",
+      "name": "mert",
+      "tel": "1234567",
+      "isAdmin": false,
+      "id": 6
+    },
+    {
+      "email": "ttttt@ttttt",
+      "password": "$2a$10$FWn.zNkIKutd5xNf6h5pyOHMyPl9mAThFUGM8dDLIR9GrI6oTyXNe",
+      "name": "yyyy",
+      "tel": "09121212",
+      "isAdmin": false,
+      "id": 7
+    },
+    {
+      "email": "123455@13241",
+      "password": "$2a$10$J35GtOaGjXiBwTSvYLRh2uqmPPyr2T3WfFesQeHQ2VPxVEcjDV/NG",
+      "name": "Nerty",
+      "tel": "93489853",
+      "isAdmin": false,
+      "id": 8
+    },
+    {
+      "email": "udhudvh@aftxfatf",
+      "password": "$2a$10$xwqiJJwFD9mEhh.nuLwthedOejs1F8YZuSwl5vDqLMc8hOuNYFeBW",
+      "name": "qury",
+      "tel": "19308013",
+      "isAdmin": false,
+      "id": 9
+    },
+    {
+      "email": "124124@qytdywd",
+      "password": "$2a$10$tE5UWEwY6Jw.FOTucBl3NOBW2DHY3D3hwzXu9Qw2ivQQjlOv0fMyi",
+      "name": "wqeqwe",
+      "tel": "3123123",
+      "isAdmin": false,
+      "id": 10
+    },
+    {
+      "email": "sfssvj@tfdxtaft",
+      "password": "$2a$10$x.QH7wYVfIYTK3vtflho3OWynjVV5LJJRMt5ttGQ9Aov7uVCh7gKS",
+      "name": "123123",
+      "tel": "1231241",
+      "isAdmin": false,
+      "id": 11
+    },
+    {
+      "email": "eqweqe@weqwe",
+      "password": "$2a$10$W4T7rYv351wrwSbyfXyMsOr8Duzu9EsPu3YXkC91JXJ8XP6IhYrxu",
+      "name": "12313",
+      "tel": "34534535",
+      "isAdmin": false,
+      "id": 12
+    },
+    {
+      "email": "23442@qywegy",
+      "password": "$2a$10$/weESMqGh86YaVtbV5CjO./Egdz3.N8hwtOY1B5cxuU9MaH0YZ9GO",
+      "name": "f123",
+      "tel": "213123",
+      "isAdmin": false,
+      "id": 13
+    },
+    {
+      "email": "qweqwe@werwer",
+      "password": "$2a$10$LUofQmabVLFkQaqpLetZnOr8EcjBM13oNd5zwVgO/NjbAizqJJanC",
+      "name": "weqwe",
+      "tel": "123123",
+      "isAdmin": false,
+      "id": 14
+    },
+    {
+      "email": "asdsad@qweqwe",
+      "password": "$2a$10$N/3YEVy3jYdqHfaN8Ul8eeT8AB7MMlzNTAGSdRlr66o.y0GZjZ1XG",
+      "name": "asdasd",
+      "tel": "23123132",
+      "isAdmin": false,
+      "id": 15
+    },
+    {
+      "email": "sgdgk@usuf",
+      "password": "$2a$10$OTaB1OqktKmtd5Df3WtbtO6pDW2g9NZzwpQ1O3GAoAHmk7OhCkQWO",
+      "name": "Bert",
+      "tel": "123456",
+      "isAdmin": false,
+      "id": 16
+    },
+    {
+      "email": "12313@ettetr",
+      "password": "$2a$10$mhj.rEOT3enyiW2YWfNRtekNz0csqh8TKojrbWuMRj4vzLLj0Nor6",
+      "name": "Nerty",
+      "tel": "096746",
+      "isAdmin": false,
+      "id": 17
+    },
+    {
+      "email": "rrrrrr@rrrrr",
+      "password": "$2a$10$a5YwwhqWjqsjfP7063iogOoTB2CSf1kHvhxTdEEtLoGDi5PSIt4t6",
+      "name": "Nerty",
+      "tel": "09121212",
+      "isAdmin": false,
+      "id": 18
+    },
+    {
+      "email": "ititti@gmail.com",
+      "password": "$2a$10$dNid9gUdaT7eINTRGGwFTOSXqxpzDHUuujfuQe6VuhcBVL3G10gDu",
+      "name": "廖添",
+      "tel": "092332323",
+      "isAdmin": false,
+      "id": 19
+    },
+    {
+      "email": "tomy@gmail.com",
+      "password": "$2a$10$U8g6AquN0Cy8WUTFKZZU5.yQ2C8LcO2jcvHaGZ9oBYDeUsuE/VecO",
+      "name": "王典",
+      "tel": "0923444444",
+      "isAdmin": false,
+      "id": 20
+    },
+    {
+      "email": "TONY@gmail.com",
+      "password": "$2a$10$hdpbID3IyWD8pXTcsbkOdufQgJY5WvdBnLWWPynzXkRHE7F0OsVSa",
+      "name": "Ton",
+      "tel": "0912345678",
+      "isAdmin": false,
+      "id": 21
+    }
   ],
-  "posts": [
-    { "id": 1, "title": "json-server2", "author": "typicode" }
+  "memberCenter": [
+    {
+      "detail": [
+        {
+          "id": 1,
+          "userId": 1
+        },
+        {
+          "id": 2,
+          "userId": 2
+        }
+      ],
+      "orders": [
+        {
+          "id": 1,
+          "userId": 1,
+          "cartId": 1
+        },
+        {
+          "id": 2,
+          "userId": 1,
+          "cartId": 2
+        },
+        {
+          "id": 3,
+          "userId": 2,
+          "cartId": 1
+        }
+      ]
+    }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
+  "closeClock": [
+    {
+      "start": {
+        "id": 1,
+        "time": "16633773737"
+      },
+      "end": {
+        "id": 1,
+        "time": "166337575757"
+      }
+    }
   ],
-  "profile": { "name": "typicode" }
+  "products": [
+    {
+      "id": 1,
+      "imgur": "https://raw.githubusercontent.com/yehHsieh/bread/main/app/assets/images/%E9%BA%B5%E5%8C%85%E5%9C%96/bread1.jpg",
+      "price": 90,
+      "breadName": "歐式麵包",
+      "content": "利用低溫發酵，帶有嚼勁、彈牙口感",
+      "source": "蛋、香草、麵粉",
+      "num": 0
+    },
+    {
+      "id": 2,
+      "imgur": "https://raw.githubusercontent.com/yehHsieh/bread/main/app/assets/images/%E9%BA%B5%E5%8C%85%E5%9C%96/laura-filip-W0PDHT_sYoQ-unsplash.jpg",
+      "price": 110,
+      "breadName": "圓法式",
+      "content": "小麥香氣，帶有嚼勁、彈牙口感",
+      "source": "小麥、麵粉",
+      "num": 0
+    },
+    {
+      "id": 3,
+      "imgur": "https://raw.githubusercontent.com/yehHsieh/bread/main/app/assets/images/%E9%BA%B5%E5%8C%85%E5%9C%96/youjeen-cho-QpwNft_7ICg-unsplash.jpg",
+      "price": 120,
+      "breadName": "生吐司",
+      "content": "牛奶香氣、彈牙口感",
+      "source": "蛋、麵粉、牛奶、植物油",
+      "num": 0
+    },
+    {
+      "id": 4,
+      "imgur": "https://raw.githubusercontent.com/yehHsieh/bread/main/app/assets/images/%E9%BA%B5%E5%8C%85%E5%9C%96/mahyar-motebassem-123wTsGP4LU-unsplash.jpg",
+      "price": 60,
+      "breadName": "牛角麵包",
+      "content": "軟硬適中，牛角尖香氣逼人",
+      "source": "蛋、麵粉、糖、植物油",
+      "num": 0
+    },
+    {
+      "id": 5,
+      "imgur": "https://raw.githubusercontent.com/yehHsieh/bread/main/app/assets/images/%E9%BA%B5%E5%8C%85%E5%9C%96/saile-ilyas-T1AX0yT9dd4-unsplash.jpg",
+      "price": 50,
+      "breadName": "奶皇酥",
+      "content": "無添加動物於，並採用早市新鮮雞蛋",
+      "source": "蛋、麵粉、糖、植物油、奶黃",
+      "num": 0
+    },
+    {
+      "id": 6,
+      "imgur": "https://raw.githubusercontent.com/yehHsieh/bread/main/app/assets/images/%E9%BA%B5%E5%8C%85%E5%9C%96/bread3.jpg",
+      "price": 130,
+      "breadName": "波式麵包",
+      "content": "採波蘭麵粉與當地招牌小麥口味",
+      "source": "小麥、麵粉",
+      "num": 0
+    },
+    {
+      "id": 7,
+      "imgur": "https://raw.githubusercontent.com/yehHsieh/bread/main/app/assets/images/%E9%BA%B5%E5%8C%85%E5%9C%96/bread7.jpg",
+      "price": 190,
+      "breadName": "馬芬妮麵包",
+      "content": "低溫炭烤，帶有微醺味且嚼勁口感",
+      "source": "小麥、麵粉、糖",
+      "num": 0
+    },
+    {
+      "id": 8,
+      "imgur": "https://raw.githubusercontent.com/yehHsieh/bread/main/app/assets/images/%E9%BA%B5%E5%8C%85%E5%9C%96/rebecca-matthews-yjWNJRwt8mc-unsplash.jpg",
+      "price": 160,
+      "breadName": "奶油麵包",
+      "content": "軟綿濃純奶味",
+      "source": "植物油、糖、蛋、麵粉",
+      "num": 0
+    },
+    {
+      "id": 9,
+      "imgur": "https://raw.githubusercontent.com/yehHsieh/bread/main/app/assets/images/%E9%BA%B5%E5%8C%85%E5%9C%96/bread5.jpg",
+      "price": 230,
+      "breadName": "匈牙利麵包",
+      "content": "外酥內軟，適合搭配一碗 Goulash",
+      "source": "小麥、麵粉、糖",
+      "num": 0
+    }
+  ],
+  "carts": [
+    {
+      "userId": "2",
+      "productId": 2,
+      "num": 2,
+      "id": 4
+    },
+    {
+      "userId": "2",
+      "productId": 9,
+      "num": 1,
+      "id": 5
+    },
+    {
+      "userId": "12",
+      "productId": 1,
+      "num": 1,
+      "id": 6
+    },
+    {
+      "userId": "12",
+      "productId": 5,
+      "num": 2,
+      "id": 7
+    },
+    {
+      "userId": "20",
+      "productId": 9,
+      "num": 2,
+      "id": 9
+    },
+    {
+      "userId": "21",
+      "productId": 5,
+      "num": 1,
+      "id": 11
+    },
+    {
+      "userId": "21",
+      "productId": 9,
+      "num": 1,
+      "id": 12
+    }
+  ],
+  "orders": [
+    {
+      "userId": "1",
+      "pickDate": "2022/12/29",
+      "orderDate": "2022/12/11",
+      "totalPrice": "460",
+      "products": [
+        {
+          "name": "奶皇酥",
+          "quantity": 2
+        },
+        {
+          "name": "生吐司",
+          "quantity": 3
+        }
+      ],
+      "status": true,
+      "id": 1
+    },
+    {
+      "userId": "1",
+      "pickDate": "2022/12/22",
+      "orderDate": "2022/12/11",
+      "totalPrice": "360",
+      "products": [
+        {
+          "name": "波式麵包",
+          "quantity": 1
+        },
+        {
+          "name": "匈牙利麵包",
+          "quantity": 1
+        }
+      ],
+      "status": true,
+      "id": 2
+    },
+    {
+      "userId": "12",
+      "pickDate": "2022/12/28",
+      "orderDate": "2022/12/12",
+      "totalPrice": "110",
+      "products": [
+        {
+          "name": "圓法式",
+          "quantity": 1
+        }
+      ],
+      "status": true,
+      "id": 4
+    },
+    {
+      "userId": "12",
+      "pickDate": "2022/12/31",
+      "orderDate": "2022/12/12",
+      "totalPrice": "220",
+      "products": [
+        {
+          "name": "圓法式",
+          "quantity": 2
+        }
+      ],
+      "status": false,
+      "id": 5
+    },
+    {
+      "userId": "12",
+      "pickDate": "2022/12/15",
+      "orderDate": "2022/12/12",
+      "totalPrice": "220",
+      "products": [
+        {
+          "name": "圓法式",
+          "quantity": 2
+        }
+      ],
+      "status": false,
+      "id": 6
+    },
+    {
+      "userId": "12",
+      "pickDate": "2022/12/16",
+      "orderDate": "2022/12/12",
+      "totalPrice": "220",
+      "products": [
+        {
+          "name": "圓法式",
+          "quantity": 2
+        }
+      ],
+      "status": false,
+      "id": 7
+    },
+    {
+      "userId": "12",
+      "pickDate": "2022/12/30",
+      "orderDate": "2022/12/12",
+      "totalPrice": "220",
+      "products": [
+        {
+          "name": "圓法式",
+          "quantity": 2
+        }
+      ],
+      "status": false,
+      "id": 8
+    },
+    {
+      "userId": "2",
+      "pickDate": "2022/12/23",
+      "orderDate": "2022/12/17",
+      "totalPrice": "250",
+      "products": [
+        {
+          "name": "歐式麵包",
+          "quantity": 1
+        },
+        {
+          "name": "奶油麵包",
+          "quantity": 1
+        }
+      ],
+      "status": true,
+      "id": 9
+    },
+    {
+      "userId": "19",
+      "pickDate": "2022/12/27",
+      "orderDate": "2022/12/17",
+      "totalPrice": "410",
+      "products": [
+        {
+          "name": "歐式麵包",
+          "quantity": 2
+        },
+        {
+          "name": "匈牙利麵包",
+          "quantity": 1
+        }
+      ],
+      "status": true,
+      "id": 10
+    },
+    {
+      "userId": "2",
+      "pickDate": "2022/12/23",
+      "orderDate": "2022/12/17",
+      "totalPrice": "280",
+      "products": [
+        {
+          "name": "牛角麵包",
+          "quantity": 2
+        },
+        {
+          "name": "奶油麵包",
+          "quantity": 1
+        }
+      ],
+      "status": true,
+      "id": 11
+    },
+    {
+      "userId": "2",
+      "pickDate": "2022/12/21",
+      "orderDate": "2022/12/17",
+      "totalPrice": "450",
+      "products": [
+        {
+          "name": "圓法式",
+          "quantity": 2
+        },
+        {
+          "name": "匈牙利麵包",
+          "quantity": 1
+        }
+      ],
+      "status": true,
+      "id": 12
+    },
+    {
+      "userId": "20",
+      "pickDate": "2022/12/19",
+      "orderDate": "2022/12/18",
+      "totalPrice": "460",
+      "products": [
+        {
+          "name": "匈牙利麵包",
+          "quantity": 2
+        }
+      ],
+      "status": true,
+      "id": 13
+    },
+    {
+      "userId": "21",
+      "pickDate": "2022/12/20",
+      "orderDate": "2022/12/18",
+      "totalPrice": "280",
+      "products": [
+        {
+          "name": "奶皇酥",
+          "quantity": 1
+        },
+        {
+          "name": "匈牙利麵包",
+          "quantity": 1
+        }
+      ],
+      "status": true,
+      "id": 14
+    }
+  ]
 }
